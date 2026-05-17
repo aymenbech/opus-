@@ -1,0 +1,17 @@
+path: uploads/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: demo-tracking
+  project: pothole-damage-road
+  version: 5
+  license: MIT
+  url: https://universe.roboflow.com/demo-tracking/pothole-damage-road/dataset/5
+
+
+

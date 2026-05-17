@@ -1,0 +1,10 @@
+flask
+werkzeug
+ultralytics
+pillow
+numpy
+opencv-python-headless
+pandas
+gunicorn
+python-dotenv   
+roboflow
